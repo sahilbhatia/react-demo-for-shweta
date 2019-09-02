@@ -1,0 +1,1 @@
+{"version":3,"sources":["index.css"],"names":[],"mappings":"AAAA,KACE,wBACF,CAEA,YACE,WAAY,CACZ,cACF,CAEA,cACE,cACF","file":"main.36ff4d79.chunk.css","sourcesContent":["body {\n  background-color: #326066;\n}\n\n.logout-btn {\n  float: right;\n  margin-top: 2ex;\n}\n\n.minions-list {\n  margin-top: 8ex;\n}\n"]}
