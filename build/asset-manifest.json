@@ -1,15 +1,15 @@
 {
   "files": {
     "main.css": "/minions/static/css/main.36ff4d79.chunk.css",
-    "main.js": "/minions/static/js/main.12f78ba0.chunk.js",
-    "main.js.map": "/minions/static/js/main.12f78ba0.chunk.js.map",
+    "main.js": "/minions/static/js/main.895d3d6b.chunk.js",
+    "main.js.map": "/minions/static/js/main.895d3d6b.chunk.js.map",
     "runtime~main.js": "/minions/static/js/runtime~main.2e6a4c10.js",
     "runtime~main.js.map": "/minions/static/js/runtime~main.2e6a4c10.js.map",
     "static/css/2.266e55a5.chunk.css": "/minions/static/css/2.266e55a5.chunk.css",
     "static/js/2.541e9762.chunk.js": "/minions/static/js/2.541e9762.chunk.js",
     "static/js/2.541e9762.chunk.js.map": "/minions/static/js/2.541e9762.chunk.js.map",
     "index.html": "/minions/index.html",
-    "precache-manifest.83790bbda1c755beb754cec1bfec3793.js": "/minions/precache-manifest.83790bbda1c755beb754cec1bfec3793.js",
+    "precache-manifest.12b7405a59c96594eadaeb537288dc8b.js": "/minions/precache-manifest.12b7405a59c96594eadaeb537288dc8b.js",
     "service-worker.js": "/minions/service-worker.js",
     "static/css/2.266e55a5.chunk.css.map": "/minions/static/css/2.266e55a5.chunk.css.map",
     "static/css/main.36ff4d79.chunk.css.map": "/minions/static/css/main.36ff4d79.chunk.css.map"

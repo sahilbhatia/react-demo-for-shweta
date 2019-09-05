@@ -66,7 +66,7 @@ function App() {
     })
     .then(apiResponse => {
       console.log("JSON Response: ", apiResponse);
-      return setMinions(apiResponse);
+      return setMinions(apiResponse.Message);
     });
   }, []);
 
